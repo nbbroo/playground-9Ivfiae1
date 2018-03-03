@@ -1,11 +1,8 @@
-# Welcome!
+# Bonjour
 
-This Ruby template lets you get started quickly with a simple one-page playground.
-
-```ruby runnable
-puts 'Hello World!'
-```
+Chuck Norris n'a que deux touche sur son clavier le 0 et l'espace...
+il code en unaire.
 
 # Advanced usage
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Ruby template](https://tech.io/select-repo/606)
+entrez une nouvelle phrase pour voir d'autre codage en unaire.
